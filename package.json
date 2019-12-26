@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/sdaitzman/hue-btt/issues"
   },
-  "homepage": "https://github.com/sdaitzman/hue-btt#readme"
+  "homepage": "https://github.com/sdaitzman/hue-btt#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hueadm": "^1.2.0",
+    "lodash": "^4.17.15"
+  }
 }
