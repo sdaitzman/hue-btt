@@ -1,0 +1,19 @@
+{
+  "name": "hue-btt",
+  "version": "0.0.1-alpha",
+  "description": "Proof-of-concept bridge between Hue and BetterTouchTool.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdaitzman/hue-btt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdaitzman/hue-btt/issues"
+  },
+  "homepage": "https://github.com/sdaitzman/hue-btt#readme"
+}
